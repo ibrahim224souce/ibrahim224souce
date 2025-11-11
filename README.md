@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibrahima
+# Hi, I'm Ibrahima
 
 I'm a **London-based Data Analyst** passionate about turning raw data into actionable insights.  
 I specialize in **Excel, Python, R, SQL, and tableau**, using tools like **Tableau ** to tell stories that drive better decisions.
@@ -17,7 +17,7 @@ Here are some of my key projects you can explore them in detail on my portfolio:
 
 ---
 
-## 🧠 Skills
+## Skills
 - **Programming:** Excel, Tableau, Python, R, SQL  
 - **Data Analysis:** Pandas, NumPy, ggplot2, dplyr  
 - **Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
