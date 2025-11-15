@@ -24,5 +24,5 @@ Here are some of my key projects you can explore them in detail on my portfolio:
 - **Other:** Data Cleaning, Feature Engineering, Predictive Modeling  
 
 
-### ⚡ Fun Fact
+### Fun Fact
 I’m currently expanding my skills into **AI automation**, combining my data analytics background with new AI tools I’m creating myself.
